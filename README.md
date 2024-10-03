@@ -35,3 +35,11 @@
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
 [![App Development](https://img.shields.io/badge/App%20Development-FF6F61?style=plastic)](your_link_here)
 
+## Connect With Me 🔗
+[![HackerRank](https://img.shields.io/badge/Linktree-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://www.hackerrank.com/profile/crackerhimansh)
+[![Gmail](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:crackerhimansh@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/himansh2004/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-saini-java-developer/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Cracker_himansh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100+-brightgreen.svg?style=plastic&logo=leetcode)](https://leetcode.com/u/psjhimanshu/)
+
