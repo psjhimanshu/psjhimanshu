@@ -77,5 +77,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=psjhimanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=psjhimanshu&icon=9&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+<h4 align="center">Profile Views</h4>
+<p align="center">
+<img src="https://profile-counter.glitch.me/{psjhimanshu}/count.svg" alt="Visitor Count" />
+</p>
+</p>
 
