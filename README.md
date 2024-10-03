@@ -43,7 +43,7 @@
 [![App Development](https://img.shields.io/badge/App%20Development-FF6F61?style=plastic)](your_link_here)
 
 ## Connect With Me 🔗
-[![HackerRank](https://img.shields.io/badge/Linktree-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://www.hackerrank.com/profile/crackerhimansh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?style=plastic&logo=linktree&logoColor=white)](https://www.hackerrank.com/profile/crackerhimansh)
 [![Gmail](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:crackerhimansh@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/himansh2004/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-saini-java-developer/)
