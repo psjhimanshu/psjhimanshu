@@ -32,7 +32,7 @@
 ### 🌱 Currently Learning
 [![DSA With JAVA](https://img.shields.io/badge/DSA%20With%20JAVA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
 [![Kotlin Android Development](https://img.shields.io/badge/Kotlin%20Android%20Development-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)](your_link_here)
-[![Backend in Java Development](https://img.shields.io/badge/Backend%20in%20Web%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
+[![Backend in Java Development](https://img.shields.io/badge/Backend%20in%20Java%20Development-%2343853D.svg?style=plastic&logo=node.js&logoColor=white)](your_link_here)
 
 
 ### 👨‍💻 Projects
