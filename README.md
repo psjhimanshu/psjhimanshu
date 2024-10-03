@@ -77,6 +77,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=psjhimanshu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=psjhimanshu&theme=merko" alt="Himanshu Saini github activity graph"/>
+
 <p align="center">
 <h4 align="center">Profile Views</h4>
 <p align="center">
