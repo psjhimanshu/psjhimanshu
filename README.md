@@ -16,6 +16,12 @@
 
 # 💫 About Me:
 ## Hi, I'm Himanshu
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Hello! I'm Himanshu;App+Developer;Open-Source+Contributor;UI+Designer)](https://git.io/typing-svg)
+
+</div>
+
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 
 ### 🌱 Having Knowledge about
