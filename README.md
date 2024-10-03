@@ -16,6 +16,7 @@
 
 # 💫 About Me:
 ## Hi, I'm Himanshu
+<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
 
 ### 🌱 Having Knowledge about
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
