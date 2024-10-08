@@ -34,12 +34,12 @@ Welcome To My Github Page
 
 <!-- LeetCode Stats - Dark Mode -->
 <a href="https://leetcode.com/psjhimanshu#gh-dark-mode-only">
-  <img src="https://leetcard.jacoblin.cool/psjhimanshu?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" width="400" height="200" alt="LeetCode Stats - Dark Mode" />
+  <img src="https://leetcard.jacoblin.cool/psjhimanshu?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" width="800" height="250" alt="LeetCode Stats - Dark Mode" />
 </a>
 
 <!-- LeetCode Stats - Light Mode -->
 <a href="https://leetcode.com/psjhimanshu#gh-light-mode-only">
-  <img src="https://leetcard.jacoblin.cool/psjhimanshu?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" width="400" height="200" alt="LeetCode Stats - Light Mode" />
+  <img src="https://leetcard.jacoblin.cool/psjhimanshu?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" width="800" height="250" alt="LeetCode Stats - Light Mode" />
 </a>
 
   
