@@ -25,7 +25,8 @@ Welcome To My Github Page
 
 </div>
 
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp">
+<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp"><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🌱 Having Knowledge about
 [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
@@ -75,10 +76,15 @@ Welcome To My Github Page
 
 # 📊 GitHub Stats:
 <div align=center>
+
+<!-- LeetCode Stats -->
+  [![LeetCode Stats - Dark Mode](https://leetcard.jacoblin.cool/psjhimanshu?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only)](https://leetcode.com/psjhimanshu#gh-dark-mode-only)
+  [![LeetCode Stats - Light Mode](https://leetcard.jacoblin.cool/psjhimanshu?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only)](https://leetcode.com/psjhimanshu#gh-light-mode-only)
+
   
 ![](https://github-readme-stats.vercel.app/api?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=psjhimanshu&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=psjhimanshu&theme=merko" alt="Himanshu Saini github activity graph"/>
