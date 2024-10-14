@@ -1,3 +1,11 @@
+<h1 align="center">
+Welcome To My Github Page
+  </h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=33ff55&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Himanshu;App+Developer;Open-Source+Contributor;UI+Designer;Programmer;Problem+Solving)](https://git.io/typing-svg)
+
+</div>
 <div align=center>
 <picture>
   <source
@@ -16,14 +24,6 @@
 </div>
 
 # 💫 About Me:
-<h1 align="center">
-Welcome To My Github Page
-  </h1>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=33ff55&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Himanshu;App+Developer;Open-Source+Contributor;UI+Designer;Programmer;Problem+Solving)](https://git.io/typing-svg)
-
-</div>
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp"><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
