@@ -28,6 +28,32 @@ Welcome To My Github
 
 
 # 📊 GitHub & LeetCode Stats:
+
+
+<div align="center">
+<span align="left">
+    <!--github most used languages-->
+   <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Leetcode Stats" style="width: 49%; height: 200px;">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
+    </a>
+</span>
+
+<span align="right">
+    <!-- Github Streak Stats -->
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=psjhimanshu&border_radius=8&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=psjhimanshu&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
+    </a>
+</span>
+</div>
+
+
+
 <div align=center>
 
 <!-- LeetCode Stats - Dark Mode -->
@@ -40,9 +66,6 @@ Welcome To My Github
   <img src="https://leetcard.jacoblin.cool/psjhimanshu?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" width="800" height="250" alt="LeetCode Stats - Light Mode" />
 </a>
 
-  
-![](https://github-readme-stats.vercel.app/api?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=psjhimanshu&theme=radical&hide_border=false)
 
 
 </div>
