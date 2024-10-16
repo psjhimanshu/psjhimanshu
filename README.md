@@ -6,7 +6,7 @@ Welcome To My Github
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=33ff55&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Himanshu;App+Developer;Open-Source+Contributor;UI+Designer;Programmer;Problem+Solving)](https://git.io/typing-svg)
 
 </div>
-<div align=center>
+<div align=center> 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -34,10 +34,10 @@ Welcome To My Github
 <span align="left">
     <!--github most used languages-->
    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Leetcode Stats" style="width: 49%; height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=psjhimanshu&border_radius=8&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=psjhimanshu&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
     </a>
 </span>
 
