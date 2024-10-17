@@ -27,6 +27,32 @@ Welcome To My Github
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<div>
+<h1>👨🏻‍💻 What's Happening?</h1>
+    <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+<a href="https://leetcode.com/psjhimanshu#gh-dark-mode-only">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/psjhimanshu?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" width="800" height="250" alt="LeetCode Stats - Dark Mode">
+    </a>
+    <a  href="https://leetcode.com/psjhimanshu#gh-light-mode-only">
+        <img align="right" width="40%" src="https://leetcard.jacoblin.cool/psjhimanshu?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" width="800" height="250" alt="LeetCode Stats - Light Mode">
+    </a>
+<div align="left" >
+<br>
+- 👨‍🎓 I've just started working on a new Android Project:<strong>Firebase Api</strong>.
+<p></p>
+- 🐣 Solving Leetcode Problems as a daily practice.
+<p></p>
+- 🌱 Learning <strong>Firebase API</strong> & <strong>Flutter</strong>
+<p></p>
+- 🔍 Solving <a href="https://leetcode.com/psjhimanshu/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
+<p></p>
+- 💻 Working on <a href="https://www.github.com/psjhimanshu/firebase" alt="link to the app"><strong>Firebase</strong></a>
+<p></p>
+- 🤔 Pondering on <strong>Right Graph </strong> for my app.
+<p></p>
+</div>
+
+
 # 📊 GitHub & LeetCode Stats:
 
 
@@ -54,21 +80,7 @@ Welcome To My Github
 
 
 
-<div align=center>
 
-<!-- LeetCode Stats - Dark Mode -->
-<a href="https://leetcode.com/psjhimanshu#gh-dark-mode-only">
-  <img src="https://leetcard.jacoblin.cool/psjhimanshu?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" width="800" height="250" alt="LeetCode Stats - Dark Mode" />
-</a>
-
-<!-- LeetCode Stats - Light Mode -->
-<a href="https://leetcode.com/psjhimanshu#gh-light-mode-only">
-  <img src="https://leetcard.jacoblin.cool/psjhimanshu?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" width="800" height="250" alt="LeetCode Stats - Light Mode" />
-</a>
-
-
-
-</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=psjhimanshu&theme=merko" alt="Himanshu Saini github activity graph"/>
 
 # 🌱 Knowledge & Learning
