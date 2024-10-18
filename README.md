@@ -26,9 +26,10 @@ Welcome To My Github
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp"><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 GitHub & LeetCode Stats:
 
 <div>
-<h1>👨🏻‍💻 What's Happening?</h1>
+
     <div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
 <a href="https://leetcode.com/psjhimanshu#gh-dark-mode-only">
         <img align="right" width="40%" src="https://leetcard.jacoblin.cool/psjhimanshu?theme=transparent&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-dark-mode-only" width="800" height="250" alt="LeetCode Stats - Dark Mode">
@@ -44,9 +45,6 @@ Welcome To My Github
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
     </a>
 </div>
-
-
-# 📊 GitHub & LeetCode Stats:
 
 
 <div align="center">
