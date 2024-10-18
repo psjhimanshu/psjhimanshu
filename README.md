@@ -37,19 +37,12 @@ Welcome To My Github
         <img align="right" width="40%" src="https://leetcard.jacoblin.cool/psjhimanshu?theme=wtf&font=Noto%20Serif%20Sinhala&ext=heatmap&border=2&radius=20#gh-light-mode-only" width="800" height="250" alt="LeetCode Stats - Light Mode">
     </a>
 <div align="left" >
-<br>
-- 👨‍🎓 I've just started working on a new Android Project:<strong>Firebase Api</strong>.
-<p></p>
-- 🐣 Solving Leetcode Problems as a daily practice.
-<p></p>
-- 🌱 Learning <strong>Firebase API</strong> & <strong>Flutter</strong>
-<p></p>
-- 🔍 Solving <a href="https://leetcode.com/psjhimanshu/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges
-<p></p>
-- 💻 Working on <a href="https://www.github.com/psjhimanshu/firebase" alt="link to the app"><strong>Firebase</strong></a>
-<p></p>
-- 🤔 Pondering on <strong>Right Graph </strong> for my app.
-<p></p>
+<a href="#gh-dark-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somani-rahul&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
+    </a>
 </div>
 
 
