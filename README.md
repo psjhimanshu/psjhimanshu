@@ -23,8 +23,7 @@ Welcome To My Github
 </picture>
 </div>
 
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp"><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[comment]: <> (<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp"><br>)
 
 # States
 
