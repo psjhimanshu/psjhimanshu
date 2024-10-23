@@ -115,7 +115,6 @@ Welcome To My Github
 </div>
 
 
-<p align="center">
 <h4 align="center">Profile Views</h4>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{psjhimanshu}/count.svg" alt="Visitor Count" />
