@@ -37,10 +37,10 @@ Welcome To My Github
     </a>
 <div align="left" >
 <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=github_dark&layout=compact#gh-dark-mode-only" alt="Leetcode Stats" style="width: 49%; height: 250px;">
     </a>
     <a href="#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 200px;"> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjhimanshu&theme=vue&layout=compact#gh-light-mode-only" alt="Leetcode Stats" style="width: 49%; height: 250px;"> 
     </a>
 </div>
 
