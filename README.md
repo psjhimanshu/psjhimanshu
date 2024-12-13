@@ -56,15 +56,8 @@ Welcome To My Github
     </a>
 </span>
 
-<span align="right">
-    <!-- Github Streak Stats -->
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=psjhimanshu&border_radius=8&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=psjhimanshu&border_radius=8&theme=vue&date_format=j%20M%5B%20Y%5D#gh-light-mode-only" alt="GitHub Streak" style="width: 49%; height: 200px;">
-    </a>
-</span>
+
+  
 </div>
 
 
