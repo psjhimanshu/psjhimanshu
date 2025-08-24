@@ -102,6 +102,35 @@ Welcome To My Github
 </div>
 </div>
 
+<h1 align="left">🌟 Thank You!</h1> 
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+  <!-- Daily Quotes -->
+    <a href="#gh-dark-mode-only">
+        <img style="width:50%;" align="right" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms#gh-dark-mode-only" alt="daily quotes">
+    </a>
+    <a href="#gh-light-mode-only">
+        <img style="width:50%" align="right" src="https://readme-daily-quotes.vercel.app/api?font=trebuchet_ms&theme=vue#gh-light-mode-only" alt="daily quotes">
+    </a>
+    <div style="width:49%" align="left">
+    <br>
+    <h3>💐 Thank you for giving your time.</h3>
+    <p></p>
+    <h3>⛑ Feel free to advice any changes.</h3>
+    <p></p>
+</div>
+</div>
+<div align="center">
+  <!-- Wave Animation -->
+    
+![Wave Animation - Dark Mode](resources/wave_animation_dark.svg#gh-dark-mode-only)
+  ![Wave Animation - Light Mode](resources/wave_animation_light.svg#gh-light-mode-only)
+
+  <!-- Themed Line -->
+  ![Themed Line - Dark Mode](resources/themed_line_dark.svg#gh-dark-mode-only)
+  ![Themed Line - Light Mode](resources/themed_line_light.svg#gh-light-mode-only)
+
+</div>
+
 
 </p>
 
