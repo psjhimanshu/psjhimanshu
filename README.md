@@ -6,22 +6,12 @@ Welcome To My Github
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=33ff55&background=2A2E3425&center=true&vCenter=true&&lines=Hello!+I'm+Himanshu;JavaDeveloper;App+Developer;Open-Source+Contributor;UI+Designer;Programmer;Problem+Solving)](https://git.io/typing-svg)
 
 </div>
-<div align=center> 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+    <!-- Contribution Heatmap with Snake Animation -->
+    <img src="resources/ocean.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-dark-mode-only" alt="Snake animation">
+    <img src="resources/github-snake.svg?color_snake=#15F8EB&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9#gh-light-mode-only" alt="Snake animation">
 </div>
+
 
 [comment]: <> (<img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/mQ8l6sRbzPKo0/giphy.webp"><br>)
 
@@ -66,7 +56,10 @@ Welcome To My Github
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=psjhimanshu&theme=merko" alt="Himanshu Saini github activity graph"/>
 
 # 🌱 Knowledge & Learning
-<div align="center">
+<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 20px;">
+      <img align="left" width="180" src="https://moon-svg.minung.dev/moon.svg?size=135&theme=ray&rotate=0" alt="moon.svg">
+  <div align=right style="display: flex; flex-direction: column; gap: 10px;">
+<div align="right">
   <a href="your_link_here"><img src="https://img.shields.io/badge/Web%20Development-0078D4?style=plastic" alt="Web Development"></a>
   <a href="your_link_here"><img src="https://img.shields.io/badge/App%20Development-800080?style=plastic" alt="App Development"></a>
   <a href="your_link_here"><img src="https://img.shields.io/badge/DSA%20With%20JAVA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="DSA With JAVA"></a>
@@ -75,8 +68,8 @@ Welcome To My Github
 </div>
 
 <!-- Skills Section -->
-<h3 align="center">Skills</h3>
-<div align="center">
+<h3 align="right">Skills</h3>
+<div align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -90,7 +83,7 @@ Welcome To My Github
 </div>
 
 <!-- Projects and Contact Section -->
-<div align="center">
+<div align="right">
   <h3>👨‍💻 Projects</h3>
   <a href="https://github.com/psjhimanshu"><img src="https://img.shields.io/badge/View_My_GitHub_Profile-psjhimanshu-black?style=plastic&logo=github" alt="Projects"></a>
   
@@ -106,7 +99,8 @@ Welcome To My Github
   <a href="https://x.com/Cracker_himansh"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://leetcode.com/u/psjhimanshu/"><img src="https://img.shields.io/badge/LeetCode-100+-brightgreen.svg?style=plastic&logo=leetcode" alt="LeetCode"></a>
 </div>
-
+</div>
+</div>
 
 
 </p>
